@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=#999999&height=80&section=header&text=My%20Stack&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=My%20Stack&fontSize=30)
 
 </div>
 
