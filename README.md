@@ -33,13 +33,17 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	
+	
+	
+	
   <br><br>
-</div>
+
 
 <br><br>
  
 
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukeeoonn&show_icons=true&theme=darcula)<br><br>
+</div>
   <!-- 
 	<div align=center>
 	<a href="https://yermi.co.kr">
@@ -55,7 +59,7 @@ Here are some ideas to get you started:
    -->
 
 	
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukeeoonn&show_icons=true&theme=darcula)<br><br>
+  
   
   
 	
