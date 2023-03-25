@@ -51,10 +51,6 @@ Here are some ideas to get you started:
 	
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukeeoonn&show_icons=true&theme=darcula)<br><br>
   
-	
-<p>🏆 Backjoon !!</p>
-	
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ukeeoonn)](https://solved.ac/ukeeoonn)
   
 	
 	
