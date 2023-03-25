@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=My%20Stack&fontSize=30)
 
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ukeoonn%20Github!&fontSize=90" />	
 </div>
-
-<div align="center">😄 Hello !!</div>
-<br><br>
- 
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -33,6 +34,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	
   <br><br>
+</div>
+
+<br><br>
+ 
+
   
   <!-- 
 	<div align=center>
